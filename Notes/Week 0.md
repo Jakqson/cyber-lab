@@ -5,15 +5,16 @@ https://www.kali.org/get-kali/#kali-virtual-machines
 
 Download kali Linux image and install to VirtualBox
 https://www.kali.org/get-kali/#kali-installer-images
-![[Pasted image 20260328144244.png]]
+<img width="933" height="545" alt="image" src="https://github.com/user-attachments/assets/4dbfad67-25f7-4c16-a8be-b967db19f9e3" />
+<img width="792" height="712" alt="image" src="https://github.com/user-attachments/assets/de8472a2-e2e0-4b92-84fc-d8157f41e52a" />
 
-![[Pasted image 20260328144706.png]]
 
 Download Windows 10, Windows Server 2019 and install to VirtualBox
 https://www.metasploit.com/download
 https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 Final VM 
-![[Pasted image 20260328145119.png]]
+<img width="1165" height="474" alt="image" src="https://github.com/user-attachments/assets/a2b8f9ee-9565-44fc-98cd-4ad1f01b63bc" />
+
 
 Install: Git, GitHub, Bitwarden password manager, Obsidian for notes
 
@@ -50,7 +51,8 @@ Set up Obsidian vault with templates: Lab Note, Report Draft, Tool Reference
 https://obsidian.md/download
 How to use obsidian: https://obsidian.md/
 
-![[Pasted image 20260328151224.png]]
+<img width="1228" height="793" alt="image" src="https://github.com/user-attachments/assets/0855e9dc-16fd-4c78-bda5-fc68f11e0be8" />
+
 
 Join Discord communities: TCM Security, TryHackMe, HackTheBox
 
