@@ -2,7 +2,7 @@ Git is used to connect with remote repositories like GitHub and GitLab
 
 ###### Basic Commands
 git --version
-![[Pasted image 20260329123527.png]]
+https://github.com/Jakqson/cyber-lab/blob/e4eeb520f378169cec2772768f44d08a2e254f05/Screenshots/Pasted%20image%2020260329123527.png
 
 ###### Setting and confirming username
 Set: git config --global user.name
