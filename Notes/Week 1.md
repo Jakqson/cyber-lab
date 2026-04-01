@@ -1,7 +1,8 @@
 ## Day 1 
 ###### 1 Lab Overview
 This lab environment is designed to simulate a real-world network for cybersecurity training and penetration testing practice.
-![[ctbersec.png]]
+<img width="913" height="457" alt="ctbersec" src="https://github.com/user-attachments/assets/c988c510-fff0-4817-99c4-bd16885b1639" />
+
 ###### Virtual Machines Used:
 
 **Kali Linux**
@@ -31,4 +32,4 @@ NAT is not used for attacks to avoid interacting with external systems.
 - Creates an isolated internal network between virtual machines
 - No internet access
 - Only VMs and the host can communicate
-![[Pasted image 20260330164510.png]]
+<img width="697" height="73" alt="image" src="https://github.com/user-attachments/assets/4171962e-fafa-4c6f-81ba-70776a822e33" />
