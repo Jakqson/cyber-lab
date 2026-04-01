@@ -63,3 +63,20 @@ NAT is not used for attacks to avoid interacting with external systems.
 - Data Link Layer - Network Access
 - Physical Layer - Network Access
 
+## Day 2
+###### Wireshark (Traffic Analysis Lab)
+To capture and analyze real network traffic using Wireshark in Kali Linux, focusing on DNS and ICMP protocols.
+**Capturing Network Traffic**
+  - Open Wireshark
+  - Select active interface (wlan0/eth0)
+  - Start live capture
+  - Visit a website
+
+**DNS Analysis**
+Apply filter **dns** in wireshark
+<img width="1012" height="718" alt="image" src="https://github.com/user-attachments/assets/28c55a12-07c4-48f2-9e5f-087cb34089eb" />
+
+**ICMP Analysis**
+Ping google.com on terminal
+Apply filter **icmp** in wireshark
+<img width="1065" height="643" alt="image" src="https://github.com/user-attachments/assets/b179d63c-e6c7-475f-9a7f-a86cdc288faf" />
