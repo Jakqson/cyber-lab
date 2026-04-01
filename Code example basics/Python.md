@@ -3,5 +3,5 @@
 ```
 name = input("What is your name")
 print(f"Welcome to Cybersec {name}")
-print("The length of your name is len(name)")
+print("The length of your name is ", len(name))
 ```
