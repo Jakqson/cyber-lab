@@ -55,11 +55,11 @@ NAT is not used for attacks to avoid interacting with external systems.
 <img width="329" height="416" alt="image" src="https://github.com/user-attachments/assets/0e8f8d7d-4345-4070-a4ee-d8d75c87cc81" />
 
 **OSI - TCP/IP Mapping**
-Application Layer - Application
-Presentation Layer - Application
-Session Layer - Application
-Transport Layer - Transport
-Network Layer - Internet
-Data Link Layer - Network Access
-Physical Layer - Network Access
+- Application Layer - Application
+- Presentation Layer - Application
+- Session Layer - Application
+- Transport Layer - Transport
+- Network Layer - Internet
+- Data Link Layer - Network Access
+- Physical Layer - Network Access
 
