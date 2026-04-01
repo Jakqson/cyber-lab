@@ -8,10 +8,6 @@ https://www.kali.org/get-kali/#kali-installer-images
 <img width="933" height="545" alt="image" src="https://github.com/user-attachments/assets/4dbfad67-25f7-4c16-a8be-b967db19f9e3" />
 <img width="792" height="712" alt="image" src="https://github.com/user-attachments/assets/de8472a2-e2e0-4b92-84fc-d8157f41e52a" />
 
-![[Pasted image 20260328144234.png|Pasted image 20260328144244.png]]
-
-![[Pasted image 20260328144706 1.png|Pasted image 20260328144706.png]]
-
 Download Windows 10, Windows Server 2019 and install to VirtualBox
 https://www.metasploit.com/download
 https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
