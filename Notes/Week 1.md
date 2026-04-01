@@ -33,3 +33,33 @@ NAT is not used for attacks to avoid interacting with external systems.
 - No internet access
 - Only VMs and the host can communicate
 <img width="697" height="73" alt="image" src="https://github.com/user-attachments/assets/4171962e-fafa-4c6f-81ba-70776a822e33" />
+
+## Day 2
+###### OSI and TCP/IP model
+**OSI Model**
+ - Application Layer: User interaction(Fake website)
+   Attacks: DNS Spoofing, Phishing and SQL ejection
+ - Presentation Layer: Encryption and formatting(ssl and tsl)
+   Attacks: SSL stripping and weak encryption exploitation
+ - Session Layer: Manage session(logins)
+   Attack: Hijack session
+ - Transport Layer: Control Delivery(TCP/UDP)
+   Attack: DoS, SYN Scan
+ - Network Layer: Address IP
+   Attack: IP Spoofing
+ - Data Link Layer: Mac Address
+   Atack: ARP Spoofing
+ - Physical Layer: Cables
+   Attack: Hardware tampring, packet sniffing
+
+<img width="329" height="416" alt="image" src="https://github.com/user-attachments/assets/0e8f8d7d-4345-4070-a4ee-d8d75c87cc81" />
+
+**OSI - TCP/IP Mapping**
+Application Layer - Application
+Presentation Layer - Application
+Session Layer - Application
+Transport Layer - Transport
+Network Layer - Internet
+Data Link Layer - Network Access
+Physical Layer - Network Access
+
