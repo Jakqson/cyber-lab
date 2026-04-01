@@ -80,3 +80,5 @@ Apply filter **dns** in wireshark
 - Ping google.com on terminal
 - Apply filter **icmp** in wireshark
 <img width="1065" height="643" alt="image" src="https://github.com/user-attachments/assets/b179d63c-e6c7-475f-9a7f-a86cdc288faf" />
+
+This lab provids experience in capturing and analyzing network traffic, helping to understand how data flows across different layers and how protocols operate in real-world scenarios.
