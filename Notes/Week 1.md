@@ -77,6 +77,6 @@ Apply filter **dns** in wireshark
 <img width="1012" height="718" alt="image" src="https://github.com/user-attachments/assets/28c55a12-07c4-48f2-9e5f-087cb34089eb" />
 
 **ICMP Analysis**
-Ping google.com on terminal
-Apply filter **icmp** in wireshark
+- Ping google.com on terminal
+- Apply filter **icmp** in wireshark
 <img width="1065" height="643" alt="image" src="https://github.com/user-attachments/assets/b179d63c-e6c7-475f-9a7f-a86cdc288faf" />
